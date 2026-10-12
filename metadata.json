@@ -1,0 +1,6 @@
+{
+  "name": "La Vie Clinica Integrada",
+  "description": "Landing page moderna e integrada de saúde, beleza e bem-estar em Santa Maria/RS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
